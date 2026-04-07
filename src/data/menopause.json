@@ -1,0 +1,158 @@
+{
+  "summary": {
+    "title": "Understanding Menopause",
+    "description": "Menopause marks the natural transition when menstrual periods stop. It typically happens between ages 45 and 50 and can include symptoms like hot flashes, mood changes, sleep disruption, and irregular periods."
+  },
+  "symptoms": [
+    {
+      "id": "hot-flashes",
+      "name": "Hot flashes",
+      "icon": "🔥",
+      "description": "Sudden warmth and sweating, often at night."
+    },
+    {
+      "id": "mood-swings",
+      "name": "Mood swings",
+      "icon": "🧠",
+      "description": "Irritability, anxiety, or emotional ups and downs."
+    },
+    {
+      "id": "sleep-problems",
+      "name": "Sleep problems",
+      "icon": "😴",
+      "description": "Trouble falling asleep or staying asleep."
+    },
+    {
+      "id": "irregular-periods",
+      "name": "Irregular periods",
+      "icon": "🩸",
+      "description": "Cycles may become shorter, longer, or unpredictable."
+    },
+    {
+      "id": "fatigue",
+      "name": "Fatigue",
+      "icon": "⚡",
+      "description": "Feeling tired or low on energy even after rest."
+    }
+  ],
+  "personalizedTips": [
+    {
+      "symptomId": "hot-flashes",
+      "tips": [
+        {
+          "id": "hot-tip-1",
+          "title": "Stay cool",
+          "description": "Wear breathable layers and keep a cold drink nearby for hot flashes.",
+          "why": "Cooling your body helps reduce the severity of sudden heat sensations."
+        },
+        {
+          "id": "hot-tip-2",
+          "title": "Hydrate regularly",
+          "description": "Drink water throughout the day to help regulate body temperature.",
+          "why": "Staying hydrated supports body temperature control and reduces discomfort."
+        }
+      ]
+    },
+    {
+      "symptomId": "mood-swings",
+      "tips": [
+        {
+          "id": "mood-tip-1",
+          "title": "Practice self-care",
+          "description": "Take short breaks, try journaling, and connect with a friend.",
+          "why": "Mindful self-care helps lower stress and balances emotional ups and downs."
+        },
+        {
+          "id": "mood-tip-2",
+          "title": "Stay active",
+          "description": "Gentle movement like walking or yoga can boost your mood.",
+          "why": "Physical activity releases mood-enhancing hormones and reduces tension."
+        }
+      ]
+    },
+    {
+      "symptomId": "sleep-problems",
+      "tips": [
+        {
+          "id": "sleep-tip-1",
+          "title": "Create a bedtime routine",
+          "description": "Wind down with calm activities and keep your bedroom cool.",
+          "why": "Routine signals your body it’s time to sleep, helping you fall asleep more easily."
+        },
+        {
+          "id": "sleep-tip-2",
+          "title": "Limit screens before bed",
+          "description": "Turn off devices 30 minutes before sleep to help your body relax.",
+          "why": "Reducing blue light helps your brain prepare for rest and improves sleep quality."
+        }
+      ]
+    },
+    {
+      "symptomId": "irregular-periods",
+      "tips": [
+        {
+          "id": "period-tip-1",
+          "title": "Track your cycle",
+          "description": "Note symptoms and bleeding patterns to help you understand changes.",
+          "why": "Tracking gives you clarity and helps identify whether changes are expected or need care."
+        },
+        {
+          "id": "period-tip-2",
+          "title": "Talk to your doctor",
+          "description": "Keep your provider informed if your periods become very irregular.",
+          "why": "Medical guidance ensures changes are monitored and managed safely."
+        }
+      ]
+    },
+    {
+      "symptomId": "fatigue",
+      "tips": [
+        {
+          "id": "fatigue-tip-1",
+          "title": "Rest mindfully",
+          "description": "Short naps and breaks can help restore energy without disrupting sleep.",
+          "why": "Brief rest periods refresh your body while keeping your overall rhythm steady."
+        },
+        {
+          "id": "fatigue-tip-2",
+          "title": "Eat nourishing snacks",
+          "description": "Choose fruits, nuts, and whole grains to support steady energy.",
+          "why": "Healthy snacks help maintain blood sugar levels and reduce tiredness."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "id": "tip-1",
+      "title": "Stay active",
+      "description": "Gentle exercise like walking, yoga, or swimming can support mood and bone health."
+    },
+    {
+      "id": "tip-2",
+      "title": "Eat balanced meals",
+      "description": "Include whole grains, lean protein, fruits, and vegetables to support energy and hormone balance."
+    },
+    {
+      "id": "tip-3",
+      "title": "Hydrate well",
+      "description": "Drink water throughout the day to help with dry skin and hot flashes."
+    },
+    {
+      "id": "tip-4",
+      "title": "Prioritize sleep",
+      "description": "Create a calm bedtime routine and keep your bedroom cool and dark."
+    },
+    {
+      "id": "tip-5",
+      "title": "Manage stress",
+      "description": "Try breathing exercises, journaling, and self-care to soothe mood changes."
+    }
+  ],
+  "dailyRecommendations": [
+    "Practice a short afternoon walk to lift your mood.",
+    "Add a serving of leafy greens or nuts for extra nutrients.",
+    "Take five minutes to breathe deeply and reset.",
+    "Keep a glass of water by your bed to stay hydrated overnight."
+  ]
+}

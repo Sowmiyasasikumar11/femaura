@@ -1,0 +1,53 @@
+{
+  "knowledgeBase": [
+    {
+      "question": "What is a menstrual cycle?",
+      "keywords": ["menstrual cycle", "cycle", "menstruation", "period"],
+      "answer": [
+        "Your menstrual cycle is a monthly process that includes your period, ovulation, and hormonal changes. Tracking it helps you understand your symptoms and mood patterns.",
+        "A menstrual cycle is the monthly change your body goes through to prepare for pregnancy. It includes menstrual bleeding, ovulation, and hormone shifts."
+      ]
+    },
+    {
+      "question": "How can I manage PMS?",
+      "keywords": ["pms", "pre menstrual", "bloating", "cramps", "irritability", "mood swings"],
+      "answer": [
+        "PMS symptoms like cramps and bloating are common. Gentle exercise, hydration, warm compresses, and rest can help make you feel better.",
+        "For PMS, try light stretching, balanced meals, and relaxing activities. If symptoms are very strong, check in with a healthcare provider."
+      ]
+    },
+    {
+      "question": "What are good menstrual hygiene habits?",
+      "keywords": ["hygiene", "sanitary", "pad", "tampon", "menstrual hygiene", "clean"],
+      "answer": [
+        "Change pads or tampons regularly, wash your hands before and after, and use breathable underwear. These habits help keep you comfortable and lower the risk of irritation.",
+        "Good menstrual hygiene includes frequent product changes and gentle cleaning. Choose products you trust and stay dry and comfortable throughout your cycle."
+      ]
+    },
+    {
+      "question": "What should I eat during my period?",
+      "keywords": ["diet", "food", "nutrition", "periods", "menstruation diet", "iron"],
+      "answer": [
+        "During your period, iron-rich foods, water, and anti-inflammatory meals can support your energy and reduce cramps.",
+        "Try leafy greens, beans, lean proteins, and warm soups. Staying hydrated and balanced helps your body feel steadier during menstruation."
+      ]
+    },
+    {
+      "question": "Why does my mood change?",
+      "keywords": ["mood", "mental health", "anxiety", "depression", "emotional", "sad"],
+      "answer": [
+        "Mood changes during your cycle are common because hormones affect your brain chemistry. Self-care and tracking your mood can help you spot patterns.",
+        "Feeling emotional or anxious around your period is often normal. Gentle self-care, rest, and talking with someone can make the days easier."
+      ]
+    },
+    {
+      "question": "How do I ease cramps?",
+      "keywords": ["pain", "cramp", "cramps", "stomach ache", "back pain", "ache"],
+      "answer": [
+        "Cramps can ease with a warm heat pack, gentle movement, relaxation, and hydration. If they are severe, talk to a doctor.",
+        "Try a warm bath or gentle stretches to soothe cramps. Light movement and rest can also help your body relax."
+      ]
+    }
+  ],
+  "fallback": "I’m here to help with menstrual health, hygiene, diet, mood, and cycle care. Ask me anything related to women’s health and I’ll do my best to provide a helpful answer."
+}

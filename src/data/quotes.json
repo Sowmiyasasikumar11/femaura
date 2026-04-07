@@ -1,0 +1,106 @@
+{
+  "motivationalQuotes": [
+    {
+      "text": "Your health is an investment, not an expense. Prioritize yourself today!",
+      "icon": "💪"
+    },
+    {
+      "text": "Every cycle is a reminder of your body's incredible strength and resilience.",
+      "icon": "✨"
+    },
+    {
+      "text": "Listen to your body. It knows what it needs.",
+      "icon": "🧘‍♀️"
+    },
+    {
+      "text": "Self-care is not selfish. Taking care of yourself helps you care for others.",
+      "icon": "💖"
+    },
+    {
+      "text": "You are stronger than you think. Your body is proof of that.",
+      "icon": "🌸"
+    },
+    {
+      "text": "Wellness is a journey, not a destination. Celebrate every step forward!",
+      "icon": "🚀"
+    },
+    {
+      "text": "Your cycle is unique, just like you. Embrace it with grace.",
+      "icon": "🌙"
+    },
+    {
+      "text": "Taking time for your health is never time wasted.",
+      "icon": "⏰"
+    },
+    {
+      "text": "You deserve to feel good in your body every single day.",
+      "icon": "👑"
+    },
+    {
+      "text": "Progress over perfection. Every small step counts!",
+      "icon": "🌈"
+    }
+  ],
+  "foodRecommendations": [
+    {
+      "title": "Iron-Rich Foods",
+      "text": "Try spinach, lean red meat, or fortified cereals during menstruation to help combat fatigue and replenish iron lost through bleeding.",
+      "icon": "🥬",
+      "cycle_phase": "menstruation"
+    },
+    {
+      "title": "Calcium Boost",
+      "text": "Incorporate dairy products, almonds, and leafy greens to ease cramps and support bone health throughout your cycle.",
+      "icon": "🥛",
+      "cycle_phase": "general"
+    },
+    {
+      "title": "Omega-3 Power",
+      "text": "Eat salmon, walnuts, and flaxseeds to reduce inflammation and support mood stability during your cycle.",
+      "icon": "🐟",
+      "cycle_phase": "general"
+    },
+    {
+      "title": "Energy-Boosting Snack",
+      "text": "Combine whole grain toast with almond butter for sustained energy and hormone-supporting minerals.",
+      "icon": "🍞",
+      "cycle_phase": "general"
+    },
+    {
+      "title": "Hydration Hero",
+      "text": "Stay hydrated with water, herbal teas, and coconut water to reduce bloating and support overall wellness.",
+      "icon": "💧",
+      "cycle_phase": "general"
+    },
+    {
+      "title": "Magnesium-Rich Foods",
+      "text": "Enjoy dark chocolate, pumpkin seeds, and almonds to ease mood swings and muscle tensions.",
+      "icon": "🍫",
+      "cycle_phase": "general"
+    },
+    {
+      "title": "Protein Power",
+      "text": "Include chicken, eggs, and legumes to maintain steady energy and support muscle recovery.",
+      "icon": "🍗",
+      "cycle_phase": "general"
+    },
+    {
+      "title": "Vitamin C Support",
+      "text": "Eat citrus fruits, berries, and bell peppers to enhance iron absorption and boost immunity.",
+      "icon": "🍊",
+      "cycle_phase": "general"
+    },
+    {
+      "title": "Anti-Inflammatory Blend",
+      "text": "Try turmeric-infused warm milk (golden milk) to reduce inflammation and support comfort.",
+      "icon": "🥛",
+      "cycle_phase": "general"
+    },
+    {
+      "title": "Antioxidant Mix",
+      "text": "Enjoy blueberries, green tea, and dark leafy greens to combat oxidative stress and support wellness.",
+      "icon": "🫐",
+      "cycle_phase": "general"
+    }
+  ]
+}

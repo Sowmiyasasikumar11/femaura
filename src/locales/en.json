@@ -1,0 +1,95 @@
+{
+  "login": {
+    "title": "Login to FemAura",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Login",
+    "switchToSignup": "Don't have an account? Sign up"
+  },
+  "signup": {
+    "title": "Sign up for FemAura",
+    "name": "Name",
+    "age": "Age",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign Up",
+    "switchToLogin": "Already have an account? Login"
+  },
+  "cycleTracker": {
+    "title": "Cycle Tracker",
+    "subtitle": "Track your cycle with precision and confidence",
+    "yourInformation": "Your Information",
+    "lastPeriodDate": "Last Period Date",
+    "cycleLength": "Cycle Length (days)",
+    "periodDuration": "Period Duration (days)",
+    "typicalCycleRange": "Typical range: 21-35 days",
+    "typicalPeriodRange": "Typical range: 2-10 days",
+    "reset": "Reset",
+    "cycleCalendar": "Cycle Calendar",
+    "legend": "Legend:",
+    "period": "Period",
+    "fertile": "Fertile",
+    "ovulation": "Ovulation",
+    "enterDatePrompt": "Enter your last period date to see the calendar",
+    "cyclePredictions": "Cycle Predictions",
+    "nextPeriod": "Next Period",
+    "inDays": "In {{days}} days",
+    "todayOrPassed": "Today or passed",
+    "ovulationDay": "Ovulation Day",
+    "passed": "Passed",
+    "fertilePeak": "This is your fertile peak",
+    "fertileWindow": "Fertile Window",
+    "fertileDays": "{{days}} days • Highest fertility window",
+    "yourCycle": "Your Cycle",
+    "cycleStats": "{{length}} days • {{duration}} day period",
+    "nextCycleStarts": "Next cycle starts {{days}} days after period ends",
+    "healthTips": "💡 Health Tips:",
+    "tip1": "• Track your symptoms daily for better insights",
+    "tip2": "• Stay hydrated during all phases of your cycle",
+    "tip3": "• This tracker is for informational purposes only",
+    "tip4": "• Consult a healthcare provider for medical advice",
+    "tip5": "• All predictions based on average menstrual cycle patterns"
+  },
+  "language": {
+    "english": "English",
+    "tamil": "தமிழ்"
+  },
+  "moodTracker": {
+    "title": "Mood Tracker",
+    "subtitle": "Track your daily mood and emotional wellness",
+    "howAreYou": "How are you feeling today?",
+    "selectMood": "Select a mood",
+    "moods": {
+      "happy": "Happy",
+      "sad": "Sad",
+      "angry": "Angry",
+      "neutral": "Neutral",
+      "excited": "Excited"
+    },
+    "moodMeter": "Mood Meter",
+    "moodLevel": "Mood Level",
+    "moodHistory": "Mood History",
+    "thisWeek": "This Week",
+    "thisMonth": "This Month",
+    "moodTrend": "Mood Trend",
+    "dayHistory": "Daily Mood",
+    "saveMood": "Save Mood",
+    "noMoodTracked": "No mood tracked for today yet",
+    "emojis": {
+      "happy": "😊",
+      "sad": "😢",
+      "angry": "😠",
+      "neutral": "😐",
+      "excited": "🤩"
+    },
+    "tip1": "Track your mood regularly for better self-awareness",
+    "tip2": "Notice patterns between your cycle and emotional wellness",
+    "tip3": "Your emotional data is private and never shared"
+  },
+  "quoteModal": {
+    "closeButton": "Let's Go! ✨",
+    "dailyInspiration": "💭 Daily Inspiration",
+    "healthTip": "🍴 Health Tip",
+    "newTipMessage": "You'll see a new tip each time you log in"
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "video-1",
+    "title": "Awareness: Menstrual Hygiene 101",
+    "description": "Understand the basics of menstrual hygiene and how to stay fresh during your cycle.",
+    "category": "Awareness",
+    "videoId": "aqz-KE-bpKQ"
+  },
+  {
+    "id": "video-2",
+    "title": "Usage: How to Use Sanitary Pads Correctly",
+    "description": "A practical guide on selecting and using pads safely and comfortably.",
+    "category": "Usage",
+    "videoId": "FOrJqkcL3BA"
+  },
+  {
+    "id": "video-3",
+    "title": "Usage: Tampon Insertion Tips",
+    "description": "Learn the right way to insert and remove tampons with confidence.",
+    "category": "Usage",
+    "videoId": "aqz-KE-bpKQ"
+  },
+  {
+    "id": "video-4",
+    "title": "Usage: Choosing the Best Menstrual Cup",
+    "description": "A friendly introduction to menstrual cups, fit, and safe usage.",
+    "category": "Usage",
+    "videoId": "aqz-KE-bpKQ"
+  },
+  {
+    "id": "video-5",
+    "title": "Disposal: Safe Disposal of Sanitary Products",
+    "description": "Learn how to dispose of pads, tampons, and wrappers responsibly.",
+    "category": "Disposal",
+    "videoId": "TpjLQ1iWTk8"
+  },
+  {
+    "id": "video-6",
+    "title": "Disposal: Plastic Waste and Period Products",
+    "description": "Understand environmental impact and safer disposal options.",
+    "category": "Disposal",
+    "videoId": "aqz-KE-bpKQ"
+  },
+  {
+    "id": "video-7",
+    "title": "Awareness: Why Menstruation Is Natural",
+    "description": "A gentle awareness video to normalize periods and reduce stigma.",
+    "category": "Awareness",
+    "videoId": "aqz-KE-bpKQ"
+  },
+  {
+    "id": "video-8",
+    "title": "Awareness: Talking About Your Period",
+    "description": "Tips for having healthy conversations about menstruation with family and friends.",
+    "category": "Awareness",
+    "videoId": "aqz-KE-bpKQ"
+  }
+]
