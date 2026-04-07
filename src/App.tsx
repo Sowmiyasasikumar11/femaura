@@ -8,11 +8,12 @@ import AwarenessVideos from './components/AwarenessVideos';
 import MenopauseSupport from './components/MenopauseSupport';
 import NavBar from './components/NavBar';
 import QuoteModal from './components/QuoteModal';
+import Dashboard from './components/Dashboard';
 
 function App() {
   const [isLogin, setIsLogin] = useState(true);
   const [isLoggedIn, setIsLoggedIn] = useState(false);
-  const [currentView, setCurrentView] = useState<'cycle' | 'mood' | 'chat' | 'videos' | 'menopause'>('cycle');
+  const [currentView, setCurrentView] = useState<'dashboard' | 'cycle' | 'mood' | 'chat' | 'videos' | 'menopause'>('dashboard');
   const [showQuoteModal, setShowQuoteModal] = useState(false);
   const [chatKey, setChatKey] = useState(0);
 
@@ -24,7 +25,7 @@ function App() {
 
   const handleLogout = () => {
     setIsLoggedIn(false);
-    setCurrentView('cycle');
+    setCurrentView('dashboard');
     setShowQuoteModal(false);
   };
 
@@ -64,6 +65,8 @@ function App() {
               onSignupSuccess={handleLogin}
             />
           )
+        ) : currentView === 'dashboard' ? (
+          <Dashboard onViewChange={setCurrentView} onShowQuote={() => setShowQuoteModal(true)} />
         ) : currentView === 'cycle' ? (
           <CycleTracker />
         ) : currentView === 'mood' ? (

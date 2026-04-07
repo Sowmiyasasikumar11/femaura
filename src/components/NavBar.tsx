@@ -2,8 +2,8 @@ import { useTranslation } from 'react-i18next';
 
 interface NavBarProps {
   isLoggedIn: boolean;
-  currentView: 'cycle' | 'mood' | 'chat' | 'videos' | 'menopause';
-  onViewChange: (view: 'cycle' | 'mood' | 'chat' | 'videos' | 'menopause') => void;
+  currentView: 'dashboard' | 'cycle' | 'mood' | 'chat' | 'videos' | 'menopause';
+  onViewChange: (view: 'dashboard' | 'cycle' | 'mood' | 'chat' | 'videos' | 'menopause') => void;
   onLogout: () => void;
 }
 
@@ -32,6 +32,16 @@ const NavBar = ({ isLoggedIn, currentView, onViewChange, onLogout }: NavBarProps
 
             {isLoggedIn && (
               <div className="hidden sm:flex items-center gap-2 rounded-full bg-white/15 px-2 py-2 backdrop-blur-sm border border-white/20">
+                <button
+                  onClick={() => onViewChange('dashboard')}
+                  className={`px-4 py-2 rounded-full font-semibold text-sm sm:text-base transition-all duration-300 ${
+                    currentView === 'dashboard'
+                      ? 'bg-white text-purple-700 shadow-lg'
+                      : 'text-white hover:bg-white/20'
+                  }`}
+                >
+                  🏠 Home
+                </button>
                 <button
                   onClick={() => onViewChange('cycle')}
                   className={`px-4 py-2 rounded-full font-semibold text-sm sm:text-base transition-all duration-300 ${
